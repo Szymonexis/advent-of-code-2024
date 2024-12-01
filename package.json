@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/lodash": "^4.17.13",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "lodash": "^4.17.21"
+  }
+}
